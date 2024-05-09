@@ -1,0 +1,4 @@
+class solution:
+
+    def concat_array(self,nums):
+    return nums + nums
